@@ -26,10 +26,10 @@
 
 *  git diff - разница между текущем файлом и запоминающем
 
+*  
+*
 
-* kwjhsahohlhfvlaksjhvalhsdv
-
-jnkljhnlernvlaksdnvlaksdnv
+*
 
 
 
