@@ -10,7 +10,7 @@
 
 * Символ (~~) - зачёркнутый лист
 
-![avatar](C:/User/Сергей/12.JPEG)
+![avatar](/Users/Сергей/Pictures/12.jpeg)
 
 
 
