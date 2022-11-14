@@ -36,7 +36,7 @@
 
 * ***git log --pretty=oneline recover-branch*** - создание новой ветки(recover-branch) где будет хранится удаленный коммит
 
-* ***git branch***- добавление новой ветки
+* ***git branch***- просмотр веток
 
 * ***git merge*** - слияние ветки
 
