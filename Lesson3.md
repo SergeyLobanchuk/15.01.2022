@@ -32,4 +32,5 @@
 5. Отправляем эти изменения на свой аккаунт (push).
 6. В окне на GitHub появляется возможность отправить pull request.
 hjkjhksshkdjjhk
-wejfgl;wrjg;ewjkg;erjh;etkhe;'kh
+wejfgl;wrjg;ewjkg;erjh;etkhe;'kh sdskjdskjdk
+jsdjsldjslkdlskdlskdlkdlk
