@@ -31,7 +31,4 @@
 4. Производим все изменения только в этой ветке.
 5. Отправляем эти изменения на свой аккаунт (push).
 6. В окне на GitHub появляется возможность отправить pull request.
-hjkjhksshkdjjhk
-wejfgl;wrj;erjh;etkhe;'kh sdskjdskjdk
-jsdjsldjslkdlskdlskdlkdlk овлывоаоывло
-рпрполрплрплолд415345оврыдвтды
+
